@@ -2,7 +2,7 @@
 
 A lightweight, extensible Python LLM agent built to run effortlessly on an M3 MacBook Pro (16GB RAM). It features `uv` for ultra-fast dependency management and allows seamless hot-swapping between local models and cloud APIs.
 
-## 🛠 Prerequisites
+## Prerequisites
 
 1. **Python 3.11+**
 2. **uv** (Install via `curl -LsSf https://astral.sh/uv/install.sh | sh` or `brew install uv`)
@@ -10,7 +10,7 @@ A lightweight, extensible Python LLM agent built to run effortlessly on an M3 Ma
 
 ---
 
-## 🚀 Setup & Local Execution
+## Setup & Local Execution
 
 ### 1. Clone & Environment Setup
 
