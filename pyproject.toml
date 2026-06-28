@@ -1,0 +1,11 @@
+[project]
+name = "llm-agent"
+version = "0.1.0"
+description = "A basic extensible LLM agent supporting local and cloud models."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain-core>=0.3.0",
+    "langchain-openai>=0.3.0",
+    "python-dotenv>=1.0.1",
+]
